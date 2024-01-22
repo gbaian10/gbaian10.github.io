@@ -9,6 +9,7 @@ title = "home_book"
 [output.html]
 default-theme = "Rust"
 preferred-dark-theme = "Rust"
+no-section-label = true
 additional-css = ["theme/pagetoc.css", "theme/whichlang.css", "devicon.css"]
 additional-js  = ["theme/pagetoc.js", "theme/whichlang.js"]
 
