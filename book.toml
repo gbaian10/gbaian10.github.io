@@ -3,7 +3,7 @@ authors = ["gbaian10"]
 language = "zh-Hant-TW"
 multilingual = false
 src = "src"
-title = "template_book"
+title = "home_book"
 
 [preprocessor.pagetoc]
 [output.html]
