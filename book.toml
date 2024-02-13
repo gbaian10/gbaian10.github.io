@@ -5,6 +5,9 @@ multilingual = false
 src = "src"
 title = "home_book"
 
+[build]
+create-missing = false
+
 [preprocessor.pagetoc]
 [output.html]
 default-theme = "Rust"
